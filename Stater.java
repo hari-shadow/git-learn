@@ -4,5 +4,6 @@ public class Stater {
     System.out.println("added the second line");
     System.out.println("for the git fetch");
     System.out.println("git fetch second line");
+    System.out.println("for the forth line git fetch");
   }
 }
